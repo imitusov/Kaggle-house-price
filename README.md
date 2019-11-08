@@ -1,4 +1,5 @@
 # Kaggle-house-price
 
 First steps into machine learning and python
-Not relevant
+
+Outdated and not relevant, check more fresh notebooks :)
